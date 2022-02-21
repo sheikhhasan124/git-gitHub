@@ -1,2 +1,2 @@
-# life-story
-this repo contains my life story.
+# branching
+This repo contains branching and pull request
